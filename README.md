@@ -1,4 +1,7 @@
-# test coverage for  [react-d3 (v0.4.0)](http://esbullington.github.io/react-d3-website/)  [![npm package](https://img.shields.io/npm/v/npmtest-react-d3.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-d3) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-d3.svg)](https://travis-ci.org/npmtest/node-npmtest-react-d3)
+# npmtest-react-d3
+
+#### basic test coverage for  [react-d3 (v0.4.0)](http://esbullington.github.io/react-d3-website/)  [![npm package](https://img.shields.io/npm/v/npmtest-react-d3.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-d3) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-d3.svg)](https://travis-ci.org/npmtest/node-npmtest-react-d3)
+
 #### ReactJS charts using d3
 
 [![NPM](https://nodei.co/npm/react-d3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-d3)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-d3/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-d3/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-d3/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-d3/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-d3/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-d3/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-d3/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-d3/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-d3/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-d3/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-d3/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-d3/build/coverage.html/index.html)
 
@@ -69,7 +72,8 @@
         "url": "git+https://github.com/esbullington/react-d3.git"
     },
     "scripts": {},
-    "version": "0.4.0"
+    "version": "0.4.0",
+    "bin": {}
 }
 ```
 
